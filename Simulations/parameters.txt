@@ -1,0 +1,4 @@
+model (1 = maint, 2 = prod, 3 = surv), N, L, S, alpha, s, maint, prod, h, U, step, thr, it, resume, save, freq_save
+
+*model N L S alpha s maint prod h U step thr it resume save freq_save
+
