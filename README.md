@@ -14,6 +14,6 @@ The _Simulations_ folder contains our individual-centered simulations code. The 
 * _mt.h_ is the MersenneTwister random numbers generator.
 * _header.h_ contains all the prototypes of functions and structures used in the program.
 
-The _Numerical calculations_ folder contains the _Mathematica_ notebooks we used for numerical calculations. Because we use two different methods to obtain numerical results, there are two notebooks, _Approximations_lf.nb_ for the Lifetime Fitness approach, and _Approximations_lc.nb_ for the Life Cycle approach.
+The _Numerical_calculations_ folder contains the _Mathematica_ notebooks we used for numerical calculations. Because we use two different methods to obtain numerical results, there are two notebooks, _Approximations_lf.nb_ for the Lifetime Fitness approach, and _Approximations_lc.nb_ for the Life Cycle approach.
 
 If readers need any explanation regarding the programs and notebooks presented in this repository, they can e-mail me at: *thomas.lesaffre@univ-lille.fr*
