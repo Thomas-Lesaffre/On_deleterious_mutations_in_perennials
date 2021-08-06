@@ -18,4 +18,4 @@ The _Simulations_ folder contains our individual-centered simulations code. The 
 
 The _Numerical_calculations_ folder contains the _Wolfram Language_ scripts we used for numerical calculations. Because we use two different methods to obtain numerical results, there are two scripts, _Approximations_lf.wls_ for the Lifetime Fitness approach, and _Approximations_lc.wls_ for the Life Cycle approach. The files _math_par_lf.txt_ and _math_par_lc.txt_ are the corresponding parameter files, and the _Approximations_lf.nb_ and _Approximations_lc.nb_ are the _Mathematica_ notebook versions of the scripts, which are easier to read because of the formatting. The file _Approximations_lf.nb_ is annotated.
 
-If readers need any explanation regarding the programs and notebooks presented in this repository, they can e-mail me at: *thomas.lesaffre@univ-lille.fr*
+If readers need any explanation regarding the programs and notebooks presented in this repository, they can e-mail me at: *thomaslesaffre.evolbiol@gmail.com*
